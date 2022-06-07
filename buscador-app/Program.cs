@@ -22,5 +22,8 @@ if (Directory.Exists(path))
     }
 File.WriteAllLines(DirecArchivo, ListaDeArchivos);
 
+}else
+{
+    System.Console.WriteLine("La ruta especificada no existe.");
 }
 
