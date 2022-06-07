@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\bin\Debug\net6.0\buscador-app.exe
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\bin\Debug\net6.0\buscador-app.deps.json
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\bin\Debug\net6.0\buscador-app.runtimeconfig.json
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\bin\Debug\net6.0\buscador-app.dll
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\bin\Debug\net6.0\buscador-app.pdb
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\obj\Debug\net6.0\buscador-app.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\obj\Debug\net6.0\buscador-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\obj\Debug\net6.0\buscador-app.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\obj\Debug\net6.0\buscador-app.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\obj\Debug\net6.0\buscador-app.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\obj\Debug\net6.0\buscador-app.dll
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\obj\Debug\net6.0\refint\buscador-app.dll
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\obj\Debug\net6.0\buscador-app.pdb
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\obj\Debug\net6.0\buscador-app.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tp8diaz\tp08-2022-diazagustin99\buscador-app\obj\Debug\net6.0\ref\buscador-app.dll
